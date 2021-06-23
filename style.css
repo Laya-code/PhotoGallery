@@ -82,4 +82,9 @@ margin-top:35px;
     margin-top:15px;
     margin-bottom: 15px;
 }
-
+.links {
+    display: inline;
+    float: center;
+    padding-right: 30px;
+    padding-left: 33px;
+    font-size: 20px;
