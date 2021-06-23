@@ -1,0 +1,85 @@
+.img1 {
+height:250px;
+width:250px;
+}
+.img2 {
+height:250px;
+width:250px;
+}
+.img3 {
+height:250px;
+width:250px;
+}
+.img4 {
+height:250px;
+width:250px;
+}
+.img5 {
+height:250px;
+width:250px;
+}
+.img6 {
+height:250px;
+width:250px;
+}
+.img7 {
+height:250px;
+width:250px;
+}
+.img8 {
+height:250px;
+width:250px;
+}
+
+.img9 {
+height:250px;
+width:250px;
+}
+
+.img10 {
+height:250px;
+width:250px;
+}
+
+.img11 {
+height:250px;
+width:250px;
+}
+
+.img12 {
+height:250px;
+width:250px;
+}
+
+
+body{
+    text-align:center;
+}
+
+#welcome{
+    height:500px;
+    width:700px;
+}
+#grid{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.row{
+    padding-top:5px;
+}
+#Flowers{
+    background-color: coral;
+    
+}
+#Flowers img{
+    height: 300px;
+margin-top:35px;
+}
+.carousel-inner p{
+    font-size: 25px;
+    color:deeppink;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+
