@@ -68,11 +68,11 @@ body{
 .row{
     padding-top:5px;
 }
-#Flowers{
+#slide{
     background-color: coral;
     
 }
-#Flowers img{
+#slide img{
     height: 300px;
 margin-top:35px;
 }
